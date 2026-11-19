@@ -1,0 +1,18 @@
+{
+  "name": "vice-grok-desk",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Grok-assisted narrative consensus and paper-trading research desk.",
+  "author": "zostaff",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "demo": "node src/cli.mjs examples/demo-events.jsonl",
+    "replay": "node src/cli.mjs",
+    "test": "node --test",
+    "check": "node --check src/cli.mjs && node --check src/desk.mjs && node --check src/grok.mjs"
+  }
+}

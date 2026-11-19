@@ -1,0 +1,11 @@
+{"type": "news", "ts": 1800000000000, "source": "rockstar", "id": "demo-1", "keywords": ["gta6"], "text": "GTA6 news update (synthetic demo)"}
+{"type": "news", "ts": 1800000015000, "source": "ct", "id": "demo-2", "keywords": ["gta6"], "text": "GTA6 news update (synthetic demo)"}
+{"type": "candidate", "ts": 1800000016000, "mint": "DEMO-A", "keyword": "gta6", "strategy": "fresh", "price": 0.001, "createdAt": 1799999900000, "checkedAt": 1800000016000, "bundled": false, "devShare": 0, "holders": 120, "liquiditySol": 20}
+{"type": "candidate", "ts": 1800000017000, "mint": "DEMO-BUNDLED", "keyword": "gta6", "strategy": "fresh", "price": 0.001, "createdAt": 1799999900000, "checkedAt": 1800000017000, "bundled": true, "devShare": 0, "holders": 120, "liquiditySol": 20}
+{"type": "candidate", "ts": 1800000018000, "mint": "DEMO-UNKNOWN", "keyword": "gta6", "strategy": "fresh", "price": 0.001, "createdAt": 1799999900000, "checkedAt": 1800000018000, "bundled": false, "devShare": null, "holders": 120, "liquiditySol": 20}
+{"type": "candidate", "ts": 1800000019000, "mint": "DEMO-OLD", "keyword": "gta6", "strategy": "fresh", "price": 0.001, "createdAt": 1799996400000, "checkedAt": 1800000019000, "bundled": false, "devShare": 0, "holders": 120, "liquiditySol": 20}
+{"type": "candidate", "ts": 1800000020000, "mint": "DEMO-MOMENTUM", "keyword": "gta6", "strategy": "momentum", "price": 0.001, "createdAt": 1799996400000, "checkedAt": 1800000020000, "bundled": false, "devShare": 0, "holders": 120, "liquiditySol": 20}
+{"type": "price", "ts": 1800000025000, "mint": "DEMO-A", "price": 0.002}
+{"type": "price", "ts": 1800000030000, "mint": "DEMO-A", "price": 0.0013}
+{"type": "price", "ts": 1800000035000, "mint": "DEMO-MOMENTUM", "price": 0.0005}
+{"type": "candidate", "ts": 1800000080000, "mint": "DEMO-EXPIRED", "keyword": "gta6", "strategy": "fresh", "price": 0.001, "createdAt": 1799999900000, "checkedAt": 1800000080000, "bundled": false, "devShare": 0, "holders": 120, "liquiditySol": 20}
